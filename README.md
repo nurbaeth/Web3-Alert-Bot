@@ -20,7 +20,7 @@ Web3 Alert Bot is a Python-based Telegram bot that monitors Web3-related platfor
    cd Web3-Alert-Bot
    ```
 
-2. Install dependencies:
+2. Install dependencies: 
    ```sh
    pip install -r requirements.txt
    ```
