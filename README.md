@@ -8,7 +8,7 @@ Web3 Alert Bot is a Python-based Telegram bot that monitors Web3-related platfor
 - Sends new article notifications to a specified Telegram chat.
 - Runs continuously and checks for new articles every 10 minutes.
 
-## Requirements
+## Requirements 
 - Python 3.7+
 - Telegram Bot API token
 - `requests`, `beautifulsoup4`, and `python-telegram-bot` packages
