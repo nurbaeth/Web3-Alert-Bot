@@ -13,7 +13,7 @@ Web3 Alert Bot is a Python-based Telegram bot that monitors Web3-related platfor
 - Telegram Bot API token
 - `requests`, `beautifulsoup4`, and `python-telegram-bot` packages
  
-## Installation 
+## Installation  
 1. Clone the repository:     
    ```sh   
    git clone https://github.com/yourusername/Web3-Alert-Bot.git 
